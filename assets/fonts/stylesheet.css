@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Alnaseeb';
+    src: url('Alnaseeb-Regular.eot');
+    src: local('Alnaseeb Regular'), local('Alnaseeb-Regular'),
+        url('Alnaseeb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Alnaseeb-Regular.woff2') format('woff2'),
+        url('Alnaseeb-Regular.woff') format('woff'),
+        url('Alnaseeb-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
