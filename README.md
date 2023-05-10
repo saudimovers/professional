@@ -1,4 +1,4 @@
-#Flusk
+#Movers
 
 An awesome free one page HTML template for your startup business or personal website.
 
@@ -28,14 +28,8 @@ An awesome free one page HTML template for your startup business or personal web
 - Easy to use
 - It's Free!
 
-#Screenshot
 
 
-![Screenshot of Flusk]
-(https://raw.githubusercontent.com/technext/Flusk/master/flusk.jpg)
-
-#Demo Link
-Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/Flusk/)
 
 
 
